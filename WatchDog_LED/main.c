@@ -1,3 +1,11 @@
+/*************************************************************/
+/*  AUTHOR     : AbdElrahman Ibrahim Zaki                    */
+/*  DATE       :  					     */
+/*  VERSION    : V0.1				             */
+/*  DESCRIPTION: Watch_Dog LED                               */
+/*                                                           */
+/*************************************************************/
+
 #include "STD_TYPES.h"
 #include "BIT_MATH.h"
 #include "DIO_Interface.h"
